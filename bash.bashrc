@@ -12,7 +12,7 @@ echo -e "\e[1mGithub: github.com/htr-tech/"
 echo "----------------------------" | lolcat
 echo "
 +-+-+-+-+-+-+-+
-|W|e|l|c|o|m|e|
-+-+-+-+-+-+-+-+ " | lolcat
-date | lolcat
+|8|e|6|8|0|6|
++-+-+-+-+-+-+-+ " | flashokiller
+date | flashokiller
 echo ""
