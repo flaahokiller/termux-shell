@@ -13,6 +13,6 @@ echo "----------------------------" | lolcat
 echo "
 +-+-+-+-+-+-+-+
 |8|e|6|8|0|6|
-+-+-+-+-+-+-+-+ " | flashokiller
-date | flashokiller
++-+-+-+-+-+-+-+ " | lolcat
+date | lolcat
 echo ""
