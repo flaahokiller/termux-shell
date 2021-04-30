@@ -11,7 +11,7 @@ echo -e "\e[1mGithub: github.com/flashokiller/"
 echo "----------------------------" | lolcat
 echo "
 +-+-+-+-+-+-+-+
-|8|e|6|8|0|6|
+W E L C O M E shell for diying
 +-+-+-+-+-+-+-+ " | lolcat
 date | lolcat
 echo "g,d,a,y"
