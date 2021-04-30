@@ -5,7 +5,7 @@
 ```
 apt update
 apt install git -y
-git clone https://github.com/flaahokiller/termux-shell.git
+git clone https://github.com/flashokiller/termux-shell.git
 cd termux-shell
 chmod +x *
 sh install.sh
@@ -13,13 +13,9 @@ exit
 ```
 ### or use Single Command
 ```
-apt update && apt install git -y && git clone https://github.com/flaahokiller/termux-shell.git && cd termux-shell && chmod +x * && sh install.sh
+apt update && apt install git -y && git clone https://github.com/flashokiller/termux-shell.git && cd termux-shell && chmod +x * && sh install.sh
 ```
 
 #### Credit : https://github.com/TechnicalMujeeb/
 
     
-## [+] Find Me on :
-#### Instagram : @tahmid.rayat
-#### Facebook : tahmid.rayat.official
-#### Github : htr-tech
